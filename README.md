@@ -14,6 +14,6 @@ Utilized Tableau for analysis of 2015 county level united states census data to 
 Browser access for Tableau Online
 
 # Contact Information
-**Name:** Jared R. Kannianen
-**Organization:** Masterschool - Data Analyst
-**Email:** jarkanni@gmail.com
+#### **Name:** Jared R. Kannianen
+#### **Organization:** Masterschool - Data Analyst
+#### **Email:** jarkanni@gmail.com
